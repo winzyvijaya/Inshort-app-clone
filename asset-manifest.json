@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/winzyvijaya/Inshort-app-clone.git/static/css/main.a7fa46e1.css",
+    "main.js": "/winzyvijaya/Inshort-app-clone.git/static/js/main.fdd1d2d4.js",
+    "static/js/453.d25eb3ed.chunk.js": "/winzyvijaya/Inshort-app-clone.git/static/js/453.d25eb3ed.chunk.js",
+    "index.html": "/winzyvijaya/Inshort-app-clone.git/index.html",
+    "main.a7fa46e1.css.map": "/winzyvijaya/Inshort-app-clone.git/static/css/main.a7fa46e1.css.map",
+    "main.fdd1d2d4.js.map": "/winzyvijaya/Inshort-app-clone.git/static/js/main.fdd1d2d4.js.map",
+    "453.d25eb3ed.chunk.js.map": "/winzyvijaya/Inshort-app-clone.git/static/js/453.d25eb3ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7fa46e1.css",
+    "static/js/main.fdd1d2d4.js"
+  ]
+}
